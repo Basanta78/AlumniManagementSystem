@@ -21,12 +21,12 @@
 
     <h3> Find Alumni Graduation</h3>
     <div class="dropdown">
-      <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">Graduation Date
-      <span class="caret"></span></button>
+         <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">Gradutaion Date
+  <span class="caret"></span></button>
       <ul class="dropdown-menu">
         <li><a href="#">2070-10-10</a></li>
-        <li><a href="#">2071-10-10/a></li>
-        <li><a href="#">J2072-10-10</a></li>
+        <li><a href="#">2071-10-10</a></li>
+        <li><a href="#">2072-10-10</a></li>
       </ul>
     </div>
 
